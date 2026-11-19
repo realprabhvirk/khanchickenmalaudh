@@ -109,5 +109,39 @@
    "alt": null
   }
  ],
- "online": []
+ "online": [
+  {
+   "name": "moti-bazaar-malerkotla-street",
+   "size": [
+    1000,
+    668
+   ],
+   "title": "Moti Bazaar, Malerkotla",
+   "author": "Khalid G A",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moti_Bazaar,_Malerkotla_01.jpg",
+   "alt": "Shop signs and overhead wires along Moti Bazaar in Malerkotla, Punjab",
+   "use": "Find Us, getting there. Regional context only, not the cart."
+  },
+  {
+   "name": "ludhiana-evening-sky-over-rooftops",
+   "size": [
+    1000,
+    750
+   ],
+   "title": "View of Ludhiana Urban at evening",
+   "author": "Yashmaanas",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Ludhiana_Urban_at_evening.jpg",
+   "alt": "Rooftops and a pink dusk sky over Ludhiana",
+   "use": "Find Us, getting there. Regional context only, not the cart."
+  }
+ ],
+ "online_rejected": [
+  {
+   "title": "Fried chicken pieces coated in sauce with sesame seeds 2025",
+   "license": "CC0",
+   "reason": "Sticky sesame glaze, looks nothing like the cart's masala chicken. Would misrepresent the food."
+  }
+ ]
 }

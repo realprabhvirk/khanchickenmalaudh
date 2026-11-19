@@ -1,0 +1,113 @@
+{
+ "photos": [
+  {
+   "original": "originals/IMG_3258.jpeg",
+   "name": "masala-fried-chicken-pieces-on-steel-tray",
+   "crop_box_ltrb": [
+    0,
+    560,
+    1512,
+    1600
+   ],
+   "size": [
+    1512,
+    1040
+   ],
+   "use": "Home hero photo, OG image, menu feature",
+   "alt": "Masala-coated fried chicken pieces on a perforated steel tray at Khan Chicken Point"
+  },
+  {
+   "original": "originals/IMG_3257.jpeg",
+   "name": "kadhai-and-fried-chicken-tray-on-stall-counter",
+   "crop_box_ltrb": [
+    0,
+    760,
+    1512,
+    1900
+   ],
+   "size": [
+    1400,
+    1056
+   ],
+   "use": "Home from the kadhai section",
+   "alt": "Black kadhai with a long-handled skimmer on the stall counter, and a steel tray of fried chicken beside it"
+  },
+  {
+   "original": "originals/IMG_3254.jpeg",
+   "name": "khan-chicken-point-stall-at-barota-chowk-dusk",
+   "crop_box_ltrb": [
+    0,
+    260,
+    1100,
+    1930
+   ],
+   "size": [
+    900,
+    1366
+   ],
+   "use": "Home landmark section, Find Us recognition guide",
+   "alt": "Khan Chicken Point cart under a big tree at Barota Chowk, with a black board and yellow Gurmukhi lettering"
+  },
+  {
+   "original": "originals/IMG_3253.jpeg",
+   "name": "khan-chicken-point-board-with-phone-number",
+   "crop_box_ltrb": [
+    0,
+    790,
+    1512,
+    1500
+   ],
+   "size": [
+    1400,
+    657
+   ],
+   "use": "Home phone block",
+   "alt": "Close-up of the Khan Chicken Point board with the phone number 78377-78270 above the yellow lettering"
+  },
+  {
+   "original": "originals/IMG_3259.jpeg",
+   "name": "khan-chicken-point-board-with-dish-photos",
+   "crop_box_ltrb": [
+    0,
+    330,
+    1512,
+    1650
+   ],
+   "size": [
+    1400,
+    1222
+   ],
+   "use": "Menu page, printed board with dish photos",
+   "alt": "The Khan Chicken Point board at night, with the phone number and a grid of ten printed dish photos"
+  },
+  {
+   "original": "originals/IMG_3260.jpeg",
+   "name": "fried-chicken-with-grated-radish-on-steel-plate",
+   "crop_box_ltrb": [
+    0,
+    420,
+    1512,
+    1900
+   ],
+   "size": [
+    1000,
+    979
+   ],
+   "use": "Menu page, plated portion",
+   "alt": "Fried chicken pieces on a steel plate with a pile of grated white radish"
+  },
+  {
+   "original": "originals/IMG_3256.jpeg",
+   "name": null,
+   "use": "Not used: dim, underexposed near-duplicate kadhai shot with a person's torso in the background",
+   "alt": null
+  },
+  {
+   "original": "IMG_3255 (not received)",
+   "name": null,
+   "use": "Not received in this session. Optional dusk kadhai shot per the brief, not needed.",
+   "alt": null
+  }
+ ],
+ "online": []
+}

@@ -158,5 +158,17 @@
    "alt": "Halved boiled eggs with golden yolks and a sprinkle of spice",
    "use": "Home and Menu. Illustrative fried chicken and egg photo, not the cart's own food."
   }
- ]
+ ],
+ "mascot": {
+  "source": "Client-supplied mascot sheet, background removed",
+  "files": [
+   "mascot-plate",
+   "mascot-pointing",
+   "mascot-thumbs-up",
+   "mascot-chef",
+   "mascot-sunglasses",
+   "mascot-head"
+  ],
+  "use": "Hero, call band, map, page headers, footer, header icon, favicon, share image"
+ }
 }

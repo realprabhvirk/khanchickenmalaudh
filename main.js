@@ -50,7 +50,7 @@
   // Scroll driven bits: header, progress bar, hero parallax, call bar
   var header = document.querySelector('.site-header');
   var bar = document.querySelector('.progress');
-  var heroMedia = document.querySelector('.hero-media');
+  var heroMedia = document.querySelector('.hero-visual');
   var callBar = document.querySelector('.call-bar');
   var footer = document.querySelector('.site-footer');
   var ticking = false;
@@ -62,7 +62,7 @@
       bar.style.transform = 'scaleX(' + (max > 0 ? Math.min(1, y / max) : 0) + ')';
     }
     if (heroMedia && !reduce && y < window.innerHeight * 1.2) {
-      heroMedia.style.transform = 'translate3d(0,' + (y * 0.22).toFixed(1) + 'px,0)';
+      heroMedia.style.transform = 'translate3d(0,' + (y * 0.07).toFixed(1) + 'px,0)';
     }
     if (callBar && footer) {
       var fr = footer.getBoundingClientRect();
@@ -101,16 +101,6 @@
   }
 
   if (!reduce && finePointer) {
-    // Hero spotlight
-    var hero = document.querySelector('.hero');
-    if (hero) {
-      hero.addEventListener('pointermove', function (e) {
-        var r = hero.getBoundingClientRect();
-        hero.style.setProperty('--mx', ((e.clientX - r.left) / r.width * 100).toFixed(1) + '%');
-        hero.style.setProperty('--my', ((e.clientY - r.top) / r.height * 100).toFixed(1) + '%');
-      });
-    }
-
     // Magnetic buttons
     document.querySelectorAll('.btn-primary, .btn-ghost').forEach(function (btn) {
       if (btn.closest('.call-bar')) return;
